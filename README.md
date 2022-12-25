@@ -1,5 +1,3 @@
-![Tunahan Ulusoy](https://github.com/TunaUlusoy/TunaUlusoy/blob/main/background.jpg)
-
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Tuna</h2>
 
 <!-- ## 👋 &nbsp;Hey there! I'm Tuna -->
