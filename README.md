@@ -70,10 +70,6 @@
 <img style="height:100%;width:49%;max-width: 100%" src="https://github-readme-stats.vercel.app/api?username=TunaUlusoy&theme=gotham&count_private=true&show_icons=true&include_all_commits=true"/>
 <br>
 <img style="height:100%;width:49%;max-width: 10%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TunaUlusoy&layout=compact&theme=gotham&langs_count=8"/>
-    
-<br><br>
-    <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-</p>
   
   
 ## 🤝 Connect with me
