@@ -1,7 +1,7 @@
 <h1 align="center"><b>Hi, I'm Tuna </b><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
 <p align="center">
-<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=AI+Software+Developer;Data+Science+and+Big+Data+Student;Algorithmic+Trader"></a></p>
+<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=How+about+a+data+journey+🚀;Artificial+Intelligence+Engineer;MSc+in+Data+Science;Algorithmic+Trader"></a></p>
 
 <h4 align="center">Visitor's Count :eyes:</h4>
 <p align="center"><img src="https://profile-counter.glitch.me/{TunaUlusoy}/count.svg"/></p>
