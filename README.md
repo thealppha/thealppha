@@ -14,8 +14,7 @@
 ✉️ &nbsp;You can shoot me an email at tunaeem@gmail.com\
 📄 &nbsp;Please have a look at my [resume](https://resume.io/r/qcqISLrhh) for more details about me. I'm open to feedback and suggestions!
 
-<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
-<!-- <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/> -->
+<picture><img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
 
 ### 🛠 &nbsp;Tech Stack
 
