@@ -3,6 +3,9 @@
 <p align="center">
 <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=AI+Software+Developer;Data+Science+and+Big+Data+Student;Algorithmic+Trader"></a></p>
 
+<h4 align="center">Visitor's Count :eyes:</h4>
+<p align="center"><img src="https://profile-counter.glitch.me/{TunaUlusoy}/count.svg"/></p>
+
 <picture><img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
 
 ![GitHub followers](https://img.shields.io/github/followers/TunaUlusoy?style=social) 
