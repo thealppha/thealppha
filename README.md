@@ -20,7 +20,7 @@
 ✍️ &nbsp;In my free time, I pursue Algorithmic Trading and Blog Writing as hobbies/side hustles.\
 💬 &nbsp;Feel free to reach out to me for some interesting discussion.\
 ✉️ &nbsp;You can shoot me an email at tunaeem@gmail.com\
-📄 &nbsp;Please have a look at my [resume](https://resume.io/r/qcqISLrhh) for more details about me. I'm open to feedback and suggestions!
+📄 &nbsp;Please take a look at [my resume](https://resume.io/r/qcqISLrhh) for more information. I'm open to feedback and suggestions!
 
 
 ### :pushpin: Programming Languages
