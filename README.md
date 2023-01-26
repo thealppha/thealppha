@@ -36,11 +36,9 @@
 ### <b>Connect with Me </b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
 
 <p align="left">
-<a href="https://www.linkedin.com/in/tunahanulusoy/"><img src="https://img.shields.io/badge/-Tunahan%20Ulusoy-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a><br>
+<a href="https://www.linkedin.com/in/tunahanulusoy/"><img src="https://img.shields.io/badge/-Tunahan%20Ulusoy-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:tunaeem@gmail.com"><img src="https://img.shields.io/badge/-tunaeem@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<br>
 <a href="https://www.kaggle.com/tunaeem"><img src="https://img.shields.io/badge/-@Tunahan Ulusoy-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<br>
 <a href="https://medium.com/@tunaai"><img src="https://img.shields.io/badge/-@tunaai-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 </p>
 
