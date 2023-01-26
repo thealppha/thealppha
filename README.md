@@ -11,51 +11,73 @@
 ![GitHub followers](https://img.shields.io/github/followers/TunaUlusoy?style=social) 
 ![GitHub User's stars](https://img.shields.io/github/stars/TunaUlusoy?style=social)
 
-### 👨🏻‍💻 &nbsp;About Me
+
+### 👨🏻‍💻 About Me
 
 💡 &nbsp;I like to explore new technologies and develop software solutions.\
 🎓 &nbsp;I'm currently studying Data Science and Big Data at the Yildiz Technical University.\
-🌱 &nbsp;I'm on track for learning more about Data Science, Big Data Solutions, ML and Artificial Intelligence.\
+🌱 &nbsp;I'm on track for learning more about Data Science, Big Data Solutions, ML and AI.\
 ✍️ &nbsp;In my free time, I pursue Algorithmic Trading and Blog Writing as hobbies/side hustles.\
 💬 &nbsp;Feel free to reach out to me for some interesting discussion.\
 ✉️ &nbsp;You can shoot me an email at tunaeem@gmail.com\
 📄 &nbsp;Please have a look at my [resume](https://resume.io/r/qcqISLrhh) for more details about me. I'm open to feedback and suggestions!
 
 
-### 🛠 &nbsp;Tech Stack
+### :pushpin: Programming Languages
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![SQL](http://img.shields.io/badge/-Sql-00758f?style=flat&logo=Mysql&logoColor=white)
+
+
+### :pushpin: Frameworks and Libraries
+
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white)&nbsp;
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=TensorFlow&logoColor=white)&nbsp;
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=Keras&logoColor=white)&nbsp;
 ![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)&nbsp;
-![Sql](http://img.shields.io/badge/-Sql-00758f?style=flat&logo=Mysql&logoColor=white)
 ![NumPy](https://img.shields.io/badge/Numpy%20-%23013243.svg?logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas%20-%23150458.svg?logo=pandas&logoColor=white)
+
+
+### :pushpin: Operating Systems
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)&nbsp;
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)&nbsp;
+
+
+<!-- ### 🗄️ Databases and Cloud Hosting
+<p>
+    <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github&logoColor=white"></a>
+    <a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Heroku%20-%23430098.svg?logo=heroku&logoColor=white"></a>
+    <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"></a>
+    <a href="#"><img alt="Firebase" src ="https://img.shields.io/badge/Firebase-%23316192.svg?logo=firebase&logoColor=white"></a>
+    <a href="#"><img alt="Microsoft Azure" src ="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white"></a>
+</p> -->
+
+### :pushpin: Software and Tools
+
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white)&nbsp;
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)&nbsp;
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Jupyter](https://img.shields.io/badge/Jupyter%20-%23F37626.svg?logo=Jupyter&logoColor=white)&nbsp;
 ![Colab](https://img.shields.io/badge/Colab-00b56a.svg?logo=google-colab&logoColor=white)&nbsp;
 
 
-
-### 📈 &nbsp;GitHub Analytics
+### 📈 GitHub Analytics
   
 <p align="center">
-<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="7oSkaaa's Github Stats" src="https://github-readme-stats.vercel.app/api?username=TunaUlusoy&show_icons=true&count_private=true&theme=algolia" height="145"/></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=TunaUlusoy&show_icons=true&count_private=true&theme=algolia"/></a>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=TunaUlusoy&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" height="145"/>
-<br/>
-<br/>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=TunaUlusoy&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia"/>
+  
+<br/><br/>
 <b>Note: </b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 </p>
   
   
-### 🤝 &nbsp;Connect with me
+### 🤝 Connect with me
 
 <p align="center">
 <a href="https://www.linkedin.com/in/tunahanulusoy/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"></img></a>
