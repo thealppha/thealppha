@@ -12,7 +12,7 @@
 ![GitHub User's stars](https://img.shields.io/github/stars/TunaUlusoy?style=social)
 
 
-## 👨🏻‍💻 About Me
+### 👨🏻‍💻 About Me
 
 💡 &nbsp;I like to explore new technologies and develop software solutions.\
 🎓 &nbsp;I'm currently studying Data Science and Big Data at the Yildiz Technical University.\
@@ -23,13 +23,13 @@
 📄 &nbsp;Please take a look at [my resume](https://resume.io/r/qcqISLrhh) for more information. I'm open to feedback and suggestions!
 
 
-## :blue_book: Programming Languages
+### :blue_book: Programming Languages
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![SQL](http://img.shields.io/badge/-Sql-00758f?style=flat&logo=Mysql&logoColor=white)
 
 
-## :green_book: Frameworks and Libraries
+### :green_book: Frameworks and Libraries
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white)&nbsp;
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=TensorFlow&logoColor=white)&nbsp;
@@ -39,7 +39,7 @@
 ![Pandas](https://img.shields.io/badge/Pandas%20-%23150458.svg?logo=pandas&logoColor=white)
 
 
-## :closed_book: Operating Systems
+### :closed_book: Operating Systems
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)&nbsp;
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)&nbsp;
@@ -54,7 +54,7 @@
     <a href="#"><img alt="Microsoft Azure" src ="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white"></a>
 </p> -->
 
-## :orange_book: Software and Tools
+### :orange_book: Software and Tools
 
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
@@ -64,7 +64,7 @@
 ![Colab](https://img.shields.io/badge/Colab-00b56a.svg?logo=google-colab&logoColor=white)&nbsp;
 
 
-## 📈 GitHub Analytics
+### 📈 GitHub Analytics
 
 <p align="center">
 <img style="height:100%;width:49%;max-width: 100%" src="https://github-readme-stats.vercel.app/api?username=TunaUlusoy&theme=gotham&count_private=true&show_icons=true&include_all_commits=true"/>
@@ -72,7 +72,7 @@
 <img style="height:100%;width:49%;max-width: 10%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TunaUlusoy&layout=compact&theme=gotham&langs_count=8"/>
   
   
-## 🤝 Connect with me
+### 🤝 Connect with me
 
 <p align="center">
 <a href="https://www.linkedin.com/in/tunahanulusoy/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"></img></a>
