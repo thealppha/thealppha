@@ -4,6 +4,9 @@
 <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=AI+Software+Developer;Data+Science+and+Big+Data+Student;Algorithmic+Trader"></a>
 </p>
 
+<picture><img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
+
+
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;I like to explore new technologies and develop software solutions.\
@@ -14,35 +17,39 @@
 ✉️ &nbsp;You can shoot me an email at tunaeem@gmail.com\
 📄 &nbsp;Please have a look at my [resume](https://resume.io/r/qcqISLrhh) for more details about me. I'm open to feedback and suggestions!
 
-<picture><img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
 
 ### 🛠 &nbsp;Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![Sql](http://img.shields.io/badge/-Sql-00758f?style=flat-square&logo=Mysql&logoColor=white)
-![Linux](http://img.shields.io/badge/-Linux-fad134?style=flat-square&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black)&nbsp;
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=plastic&logo=ubuntu&logoColor=white)&nbsp;
+
 
 ### ⚙️ &nbsp;GitHub Analytics
-
+  
 <p align="center">
-<a href="https://github.com/TunaUlusoy">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=TunaUlusoy&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-</a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="7oSkaaa's Github Stats" src="https://github-readme-stats.vercel.app/api?username=TunaUlusoy&show_icons=true&count_private=true&theme=algolia" height="145"/></a>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=TunaUlusoy&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" height="145"/>
+<br/>
+<br/>
+<b>Note: </b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 </p>
   
-### <b>Connect with Me </b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
+  
+### 🤝 &nbsp;Connect with me
 
 <p align="center">
-<a href="https://www.linkedin.com/in/tunahanulusoy/"><img src="https://img.shields.io/badge/-Tunahan%20Ulusoy-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:tunaeem@gmail.com"><img src="https://img.shields.io/badge/-tunaeem@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://www.kaggle.com/tunaeem"><img src="https://img.shields.io/badge/-@Tunahan Ulusoy-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://medium.com/@tunaai"><img src="https://img.shields.io/badge/-@tunaai-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
-</p>
+<a href="https://www.linkedin.com/in/tunahanulusoy/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"></img></a>
+<a href="mailto:tunaeem@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://twitter.com/tunahanulusoy"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=Twitter&logoColor=white"></img></a>
+<a target="_blank" href="https://medium.com/tunahanulusoy"><img src="https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white"></img></a>
 
 -----
 Credits: [Tunahan Ulusoy](https://github.com/TunaUlusoy)
 
-Last Edited on: 11/12/2020
+Last Edited on: 01/26/2023
