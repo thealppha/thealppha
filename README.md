@@ -3,16 +3,13 @@
 <p align="center">
 <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=AI+Software+Developer;Data+Science+and+Big+Data+Student;Algorithmic+Trader"></a></p>
 
-<h4 align="center">Visitor's Count :eyes:</h4>
-<p align="center"><img src="https://profile-counter.glitch.me/{TunaUlusoy}/count.svg"/></p>
-
 <picture><img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
 
 ![GitHub followers](https://img.shields.io/github/followers/TunaUlusoy?style=social) 
 ![GitHub User's stars](https://img.shields.io/github/stars/TunaUlusoy?style=social)
 
 
-### 👨🏻‍💻 About Me
+## 👨🏻‍💻 About Me
 
 💡 &nbsp;I like to explore new technologies and develop software solutions.\
 🎓 &nbsp;I'm currently studying Data Science and Big Data at the Yildiz Technical University.\
@@ -23,13 +20,13 @@
 📄 &nbsp;Please take a look at [my resume](https://resume.io/r/qcqISLrhh) for more information. I'm open to feedback and suggestions!
 
 
-### :pushpin: Programming Languages
+## :blue_book: Programming Languages
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![SQL](http://img.shields.io/badge/-Sql-00758f?style=flat&logo=Mysql&logoColor=white)
 
 
-### :pushpin: Frameworks and Libraries
+## :green_book: Frameworks and Libraries
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white)&nbsp;
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=TensorFlow&logoColor=white)&nbsp;
@@ -39,7 +36,7 @@
 ![Pandas](https://img.shields.io/badge/Pandas%20-%23150458.svg?logo=pandas&logoColor=white)
 
 
-### :pushpin: Operating Systems
+## :closed_book: Operating Systems
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)&nbsp;
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)&nbsp;
@@ -54,7 +51,7 @@
     <a href="#"><img alt="Microsoft Azure" src ="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white"></a>
 </p> -->
 
-### :pushpin: Software and Tools
+## :orange_book: Software and Tools
 
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
@@ -64,20 +61,19 @@
 ![Colab](https://img.shields.io/badge/Colab-00b56a.svg?logo=google-colab&logoColor=white)&nbsp;
 
 
-### 📈 GitHub Analytics
-  
-<p align="center">
-<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=TunaUlusoy&show_icons=true&count_private=true&theme=algolia"/></a>
+## 📈 GitHub Analytics
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=TunaUlusoy&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia"/>
-  
+<img style="height:100%;width:49%;max-width: 100%" src="https://github-readme-stats.vercel.app/api?username=TunaUlusoy&theme=gotham&count_private=true&show_icons=true&include_all_commits=true"/>
+<br>
+<img style="height:100%;width:49%;max-width: 10%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TunaUlusoy&layout=compact&theme=gotham&langs_count=8"/>
+
 <br/><br/>
 <b>Note: </b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 </p>
   
   
-### 🤝 Connect with me
+## 🤝 Connect with me
 
 <p align="center">
 <a href="https://www.linkedin.com/in/tunahanulusoy/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"></img></a>
