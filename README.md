@@ -63,14 +63,14 @@
 ![Jupyter](https://img.shields.io/badge/Jupyter%20-%23F37626.svg?logo=Jupyter&logoColor=white)&nbsp;
 ![Colab](https://img.shields.io/badge/Colab-00b56a.svg?logo=google-colab&logoColor=white)&nbsp;
 
-
+<!-- 
 ### 📈 GitHub Analytics
 
 <p align="center">
 <img style="height:100%;width:49%;max-width: 100%" src="https://github-readme-stats.vercel.app/api?username=TunaUlusoy&theme=gotham&count_private=true&show_icons=true&include_all_commits=true"/>
 <br>
 <img style="height:100%;width:49%;max-width: 10%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TunaUlusoy&layout=compact&theme=gotham&langs_count=8"/>
-  
+   -->
   
 ### 🤝 Connect with me
 
