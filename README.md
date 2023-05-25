@@ -6,7 +6,7 @@
 <h4 align="center">Visitor's Count :eyes:</h4>
 <p align="center"><img src="https://profile-counter.glitch.me/{TunaUlusoy}/count.svg"/></p>
 
-<picture><img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
+<!-- <picture><img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture> -->
 
 ![GitHub followers](https://img.shields.io/github/followers/TunaUlusoy?style=social) 
 ![GitHub User's stars](https://img.shields.io/github/stars/TunaUlusoy?style=social)
