@@ -74,7 +74,7 @@
   
 ### 🤝 Connect with me
 
-<p align="center">
+<!-- <p align="center"> -->
 <a href="https://www.linkedin.com/in/tunahanulusoy/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"></img></a>
 <a href="mailto:tunaeem@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.kaggle.com/tunaeem"><img src="https://img.shields.io/badge/Kaggle-%230A66C2.svg?style=flat&logo=kaggle&logoColor=white"></img></a>
