@@ -16,7 +16,7 @@
 
 💡 &nbsp;I like to explore new technologies and develop software solutions.\
 🎓 &nbsp;I'm currently studying Data Science and Big Data at the Yildiz Technical University.\
-🌱 &nbsp;I'm on track for learning more about Data Science, Big Data Solutions, ML and AI.\
+🌱 &nbsp;I'm on track for learning more about Data Science, ML, MLOPS Solutions.\
 ✍️ &nbsp;In my free time, I pursue Algorithmic Trading and Blog Writing as hobbies/side hustles.\
 💬 &nbsp;Feel free to reach out to me for some interesting discussion.\
 ✉️ &nbsp;You can shoot me an email at tunaeem@gmail.com\
