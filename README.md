@@ -3,13 +3,13 @@
 <p align="center">
 <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=How+about+a+data+journey+🚀;Artificial+Intelligence+Engineer;MSc+in+Data+Science;Algorithmic+Trader"></a></p>
 
-<h4 align="center">Visitor's Count :eyes:</h4>
+<h4 align="center">Visitor's Count</h4>
 <p align="center"><img src="https://profile-counter.glitch.me/{TunaUlusoy}/count.svg"/></p>
 
 <!-- <picture><img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture> -->
 
-![GitHub followers](https://img.shields.io/github/followers/TunaUlusoy?style=social) 
-![GitHub User's stars](https://img.shields.io/github/stars/TunaUlusoy?style=social)
+![GitHub followers](https://img.shields.io/github/followers/thealppha?style=social) 
+![GitHub User's stars](https://img.shields.io/github/stars/thealppha?style=social)
 
 
 ### 👨🏻‍💻 About Me
@@ -81,6 +81,6 @@
 <a href="https://medium.com/@tunaai"><img src="https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white"></img></a>
 
 -----
-Credits: [Tunahan Ulusoy](https://github.com/TunaUlusoy)
+Credits: [Tunahan Ulusoy](https://github.com/thealppha)
 
 Last Edited on: 01/26/2023
